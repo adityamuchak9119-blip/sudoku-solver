@@ -1,7 +1,11 @@
 Sudoku Solver Web App Overview
 
-image image image
-Working link: https://sudoku-solver-sv3kefefpdu3tx9npvgmsn.streamlit.app/ This project is a Sudoku Solver Web Application that allows users to upload or input a Sudoku puzzle and get the solved grid instantly. It uses a backtracking algorithm (or image processing + solver, depending on your version) to compute the solution efficiently.
+<img width="1887" height="410" alt="image" src="https://github.com/user-attachments/assets/9b428df0-afc8-4c4e-8862-69ffd3773d5f" />
+
+
+Working link: https://sudoku-solver-sv3kefefpdu3tx9npvgmsn.streamlit.app/ 
+
+This project is a Sudoku Solver Web Application that allows users to upload or input a Sudoku puzzle and get the solved grid instantly. It uses a backtracking algorithm (or image processing + solver, depending on your version) to compute the solution efficiently.
 
 Features
 
